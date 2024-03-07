@@ -1,0 +1,26 @@
+line 1
+
+line 2
+
+line 3
+
+fd
+
+co
+
+bo
+
+nuevas cosas en este archivonuevas cosas en este archivo
+otra linea
+nuevas cosas en este archivo
+otra linea
+mas lineas
+nuevas cosas en este archivo
+otra linea
+mas lineas
+nuevas cosas en este archivo
+otra linea
+mas lineas
+nuevas cosas en este archivo
+otra linea
+mas lineas
